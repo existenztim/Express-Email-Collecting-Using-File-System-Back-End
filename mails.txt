@@ -1,0 +1,8 @@
+[
+  "tim@hotmail.com",
+  "ernst@gmail.com",
+  "alfons@outlook.com",
+  "urban@hotmail.com",
+  "john@yahoo.com",
+  "testmail@gmail.com"
+]
